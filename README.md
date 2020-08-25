@@ -1,6 +1,6 @@
 # customers-behaviour-analysis
 
-For companies, it is important to use customer data to increase both customer satisfaction and the revenue of the company. Information related to shopping behaviours of the customers is very crucial to understand and to respond to customers on time in a proper way. In this project, we do parametric and non-parametric statistical analysis on shopping duration and shopping amount. Doing so, the aim is to understand these features and their relation with other features to build a more robust dataset for models.
+For companies, it is important to use customer data to increase both customer satisfaction and the revenue of the company. Information related to shopping behaviours of the customers is very crucial to understand and to respond to customers on time in a proper way. In this project, we do parametric and non-parametric statistical analysis on shopping duration and shopping amount. Doing so, the aim is to understand these features and their relation with other features to build a more robust feature space for models.
 
 #### Tests impelemneted:
 * ANOVA 
