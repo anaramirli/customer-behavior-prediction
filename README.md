@@ -7,11 +7,11 @@ ANOVA, Tukey HSD, Kruskal-Wallis, Conover post hoc
 
 This file contains brief description of our project folder
 
-* dataset: dataset we're given.
-* modules: contains some utility functions/classes we're using.
-* shop_duration_stat_tests.ipynb: statistical test for shopping duration.
-* shop_amount_stat_tests.ipynb: statistical test for shopping amount.
-* models_shopping_amount.ipynb: classificaton modles for shopping amoount.
+    * dataset: dataset we're given.
+    * modules: contains some utility functions/classes we're using.
+    * shop_duration_stat_tests.ipynb: statistical test for shopping duration.
+    * shop_amount_stat_tests.ipynb: statistical test for shopping amount.
+    * models_shopping_amount.ipynb: classificaton modles for shopping amoount.
 
 - Check requirements (to run the codes you need python version 3.6+):
 
