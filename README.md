@@ -5,14 +5,13 @@ For companies, it is important to use customer data to increase both customer sa
 Test impelemneted:
 ANOVA, Tukey HSD, Kruskal-Wallis, Conover post hoc
 
-This file contains brief description of our project folder
-
-    * dataset: dataset we're given.
-    * modules: contains some utility functions/classes we're using.
-    * shop_duration_stat_tests.ipynb: statistical test for shopping duration.
-    * shop_amount_stat_tests.ipynb: statistical test for shopping amount.
-    * models_shopping_amount.ipynb: classificaton modles for shopping amoount.
-
+Description of our project folder<br/>
+   ```dataset```: contains dataset file<br/>
+   ```modules```: contains some utility functions/classes we're using<br/>
+   ```shop_duration_stat_tests.ipynb```: statistical tests on shopping duration<br/>
+   ```shop_amount_stat_tests.ipynb```: statistical tests on shopping amount<br/>
+   ```models_shopping_amount.ipynb```: classificaton modles for shopping amoount<br/>
+    
 - Check requirements (to run the codes you need python version 3.6+):
 
     ```
