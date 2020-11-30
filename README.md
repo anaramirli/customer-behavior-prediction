@@ -1,6 +1,6 @@
 # customers-behaviour-analysis
 
-For companies, it is important to use customer data to increase both customer satisfaction and the revenue of the company. Information related to shopping behaviours of the customers is very crucial to understand and to respond to customers on time in a proper way. In this project, we do parametric and non-parametric statistical analysis on shopping duration and shopping amount. Doing so, the aim is to understand these features and their relation with other features to build a more robust feature space for models.
+For companies, it is important to use customer data to increase both customer satisfaction and the revenue of the company. Information related to shopping behaviours of the customers is very crucial to understand and to respond to customers on time in a proper way. In this project, we do parametric and non-parametric statistical analysis on shopping duration and shopping amount. Doing so, the aim is to understand these features and their relation with other features in order to build a more robust feature space for models. 
 
 #### Tests impelemneted:
 * ANOVA 
@@ -16,8 +16,8 @@ For companies, it is important to use customer data to increase both customer sa
    ```models_shopping_amount.ipynb```: classificaton modles for shopping amoount<br/>
     
 #### Check requirements (to run the codes you need python version 3.6+):
-    ```
-    conda create -n my_env python=3.6
-    conda activate my_env
-    (my_env)$ pip install -r requirements.txt 
-    ```
+ ```
+ conda create -n my_env python=3.6
+ conda activate my_env
+ (my_env)$ pip install -r requirements.txt 
+ ```
